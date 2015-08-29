@@ -8,3 +8,8 @@ var Bee = function() {
 
 Bee.prototype = Object.create(Grub.prototype);
 Bee.prototype.constructor = Bee;
+
+// add comment
+// add another comment here
+// and another
+// adding another comment
